@@ -168,3 +168,8 @@ internal class SomeClassTest {
 layout: end
 ---
 
+# "To finish first, first you have to finish." - Stirling Moss
+> Just like in F1, this emphasizes the importance of having functional,
+> bug-free code. Just like a race car needs to complete the race to 
+> have any chance of winning, your code needs to pass its tests to 
+> ensure it functions as expected.
