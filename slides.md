@@ -58,9 +58,9 @@ Elevate your software development process by learning and applying the principle
 
 <v-clicks>
 
-- 🔍 **Understanding Unit Testing** - Kick-off your journey by learning what unit testing is, its importance, and how it can revolutionize your development process.
+- 🔍 **Understanding Unit Testing** - Kick-off your journey by learning what unit testing is, its importance, and how it can improve your development process.
 
-- 🧪 **First-hand Testing Experience** - Let's start on the workshop where we set up, run and debug our first unit test.
+- 🧪 **First-hand Testing Experience** - Let's start on the workshop where we set up and run our first unit test.
 
 - 📚 **Take-Home Assignments** -  Continue your exploration of Kotlin's fundamental building blocks with F1 app workshop step 8 to 12, while consolidating your understanding of unit testing by applying them to the tasks at hand.
 
